@@ -20,8 +20,8 @@
 <br /> 🔴 State Changes - Changes made to the to the licensed material must be documented
 
 <br /> **Saftey for us:**
-<br /> 🟡 We take no liability what so ever of any damage/errors of any kind that may occur in the online world or in the real world
-<br /> 🟡 We provide no warrenty what so ever
+<br /> 🟠 We take no liability what so ever of any damage/errors of any kind that may occur in the online world or in the real world
+<br /> 🟠 We provide no warrenty what so ever
 
 
 
