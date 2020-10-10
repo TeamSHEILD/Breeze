@@ -1,23 +1,23 @@
 # Breeze
-Breeze is a open source (as you can see) Discord bot that focuses on Fun and Entertainment. We do not focus very much on Moderation/Utility. We try our best to make Breeze as user friendly as possible without having to set anything up. Feel free to make a pull request. Keep in mind any pull requests will be ours under the copyright shown below. 
+<br /> Breeze is a open source (as you can see) Discord bot that focuses on Fun and Entertainment. We do not focus very much on Moderation/Utility. We try our best to <br /> make Breeze as user friendly as possible without having to set anything up. Feel free to make a pull request. Keep in mind any pull requests will be ours under <br /> the copyright shown below. 
 
 # Basic Rundown On Our Copyright License 
 
-You can:
+<br /> You can:
 
-Use for commertial use
-Distubute our code
-Make modifications to our code
-Use code for patents
-Use for private projects
+<br /> Use for commertial use
+<br /> Distubute our code
+<br /> Make modifications to our code
+<br /> Use code for patents
+<br /> Use for private projects
 
-Required for you to do if using our code in your project:
+<br /> Required for you to do if using our code in your project:
 
-Disclose Source - Source must be made availible when linsenced material is distibuted
-License and copyright notice - A copy of the license and copyright notice must be included with licensed material
-Network use as distibution - Users who interact with the code have the right to recieve a copy of the source code
-Same License - When releasing modified versions of our code must use this same copyright license
-State Changes - Changes made to the to the licensed material must be documented
+<br /> Disclose Source - Source must be made availible when linsenced material is distibuted
+<br /> License And Copyright Notice - A copy of the license and copyright notice must be included with licensed material
+<br /> Network Use As Distibution - Users who interact with the code have the right to recieve a copy of the source code
+<br /> Same License - When releasing modified versions of our code must use this same copyright license
+<br /> State Changes - Changes made to the to the licensed material must be documented
 
 Saftey for us:
 We take no liability what so ever of any damage/errors of any kind that may occur in the online world or in the real world
