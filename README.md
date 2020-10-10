@@ -5,23 +5,23 @@
 
 <br /> **You can:**
 
-<br /> Use for commertial use
-<br /> Distubute our code
-<br /> Make modifications to our code
-<br /> Use code for patents
-<br /> Use for private projects
+<br /> 🟢 Use for commertial use
+<br /> 🟢 Distubute our code
+<br /> 🟢 Make modifications to our code
+<br /> 🟢 Use code for patents
+<br /> 🟢 Use for private projects
 
 <br /> **Required for you to do if using our code in your project:**
 
-<br /> Disclose Source - Source must be made availible when linsenced material is distibuted
-<br /> License And Copyright Notice - A copy of the license and copyright notice must be included with licensed material
-<br /> Network Use As Distibution - Users who interact with the code have the right to recieve a copy of the source code
-<br /> Same License - When releasing modified versions of our code must use this same copyright license
-<br /> State Changes - Changes made to the to the licensed material must be documented
+<br /> 🔴 Disclose Source - Source must be made availible when linsenced material is distibuted
+<br /> 🔴 License And Copyright Notice - A copy of the license and copyright notice must be included with licensed material
+<br /> 🔴 Network Use As Distibution - Users who interact with the code have the right to recieve a copy of the source code
+<br /> 🔴 Same License - When releasing modified versions of our code must use this same copyright license
+<br /> 🔴 State Changes - Changes made to the to the licensed material must be documented
 
 <br /> **Saftey for us:**
-<br /> We take no liability what so ever of any damage/errors of any kind that may occur in the online world or in the real world
-<br /> We provide no warrenty what so ever
+<br /> 🟡 We take no liability what so ever of any damage/errors of any kind that may occur in the online world or in the real world
+<br /> 🟡 We provide no warrenty what so ever
 
 
 
