@@ -1,5 +1,7 @@
 # Breeze
-<br /> Breeze is a open source (as you can see) Discord bot that focuses on Fun and Entertainment. We do not focus very much on Moderation/Utility. We try our best to make Breeze as user friendly as possible without having to set anything up. Feel free to make a pull request. Keep in mind any pull requests will be ours under the copyright shown below. 
+<br /> Breeze is a open source (as you can see) Discord bot that focuses on Fun and Entertainment. We do not focus very much on Moderation/Utility. We try our best to make Breeze as user friendly as possible without having to set anything up. Feel free to make a pull request. 
+
+<br /> **Keep in mind any pull requests will be ours under the copyright shown below.**
 
 # Basic Rundown On Our Copyright License 
 
