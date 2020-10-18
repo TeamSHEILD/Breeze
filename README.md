@@ -1,4 +1,4 @@
-https://img.shields.io/discord/711507824919969812?label=Discord&logo=discord&logoColor=ffffff&labelColor=7289DA&color=2c2f33
+![Discord](https://img.shields.io/discord/711507824919969812?label=Discord&logo=discord&logoColor=ffffff&labelColor=7289DA&color=2c2f33)
 
 
 # Breeze
