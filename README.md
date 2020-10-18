@@ -1,3 +1,6 @@
+https://img.shields.io/discord/711507824919969812?label=Discord&logo=discord&logoColor=ffffff&labelColor=7289DA&color=2c2f33
+
+
 # Breeze
 <br /> Breeze is a open source (as you can see) Discord bot that focuses on Fun and Entertainment. We do not focus very much on Moderation/Utility. We try our best to make Breeze as user friendly as possible without having to set anything up. Feel free to make a pull request. 
 
